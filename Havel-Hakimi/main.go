@@ -5,6 +5,7 @@ import (
 	"sort"
 )
 
+// from https://www.reddit.com/r/dailyprogrammer/comments/bqy1cf/20190520_challenge_378_easy_the_havelhakimi/
 func main() {
 	ans := []int{5, 3, 0, 2, 6, 2, 0, 7, 2, 5}
 	fmt.Println(ans)
